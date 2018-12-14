@@ -1,5 +1,4 @@
 # BadUSB-Block
-Author: mmcabee
 
 This script will harden your system against the 'BadUSB' vulnerability. 
 It will make several registry alterations, which aim to accomplish the following actions: 
